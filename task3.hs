@@ -78,3 +78,15 @@ main = do
     if map toLower response == "y"
       then main
       else putStrLn "Thanks for playing! Goodbye!"
+
+
+-- | Main function\fgbr
+tr
+t
+r
+r
+tbr
+tb
+r
+by
+

@@ -80,13 +80,3 @@ main = do
       else putStrLn "Thanks for playing! Goodbye!"
 
 
--- | Main function\fgbr
-tr
-t
-r
-r
-tbr
-tb
-r
-by
-
